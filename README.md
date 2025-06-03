@@ -65,7 +65,10 @@ Build dynamic and responsive Excel dashboards for business decision-making. Clea
 ---
 
 ## 📸 Sample Screenshots
-> *(Optional: Add screenshots of dashboards or Excel formula maps for better visual appeal.)*
+>
+![image](https://github.com/user-attachments/assets/88e3e9ee-a039-45f1-9be8-c32655e9bcf6)
+![image](https://github.com/user-attachments/assets/1341df2b-bdcf-4b8c-86f4-0256732c2e97)
+
 
 ---
 
